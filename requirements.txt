@@ -1,0 +1,4 @@
+os
+sqlite3
+flask
+jinja2
