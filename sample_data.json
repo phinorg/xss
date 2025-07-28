@@ -1,0 +1,20 @@
+[
+  {
+    "product": "Laptop",
+    "price": 999.99,
+    "category": "Electronics",
+    "in_stock": true
+  },
+  {
+    "product": "Book",
+    "price": 29.99,
+    "category": "Education",
+    "in_stock": true
+  },
+  {
+    "product": "Chair",
+    "price": 199.99,
+    "category": "Furniture",
+    "in_stock": false
+  }
+]

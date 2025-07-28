@@ -1,0 +1,4 @@
+country	population	capital
+USA	331000000	Washington D.C.
+Canada	38000000	Ottawa
+Mexico	129000000	Mexico City
